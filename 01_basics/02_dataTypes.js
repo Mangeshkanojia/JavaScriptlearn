@@ -14,3 +14,9 @@ let isLoggoedIn = false // boolean
 //boolean => true/false
 // null => standalone value
 // undefined =>  value
+// symbol => unique
+
+// object 
+
+console.log(typeof null); // object
+console.log(typeof undefined); // undefined
